@@ -29,3 +29,4 @@ PIDFILE="/var/run/oxen-node-sysd2v.pid"
 START_ARGS="--user _loki --chuid _loki --chdir /var/lib/oxen --background --make-pidfile --notify-await" # --notify-timeout infinity
 STOP_ARGS="--user _loki"
 
+# FOR THE GLORT OF SITHIS!
